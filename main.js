@@ -3,7 +3,7 @@
 "use strict";
 
 // globals??
-var x = 1;
+var x = 45;
 var y = 2;
 var z = 3;
 
